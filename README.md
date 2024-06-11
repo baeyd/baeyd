@@ -26,10 +26,9 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 <br><br>
 
 ## Skills 👋
-<a href="javascript:void(0);" style="cursor: default;">
-<img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
-<a href="javascript:void(0);" style="cursor: default;">
-<img src="https://img.shields.io/badge/Liunx-61DAFB?style=flat-square&logo=Liunx&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Liunx-61DAFB?style=flat-square&logo=Liunx&logoColor=white"/></a>
 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyd&show_icons=true&theme=radical)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyd&show_icons=true&theme=radical)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaeyd&count_bg=%2379C83D&title_bg=%23808080&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
