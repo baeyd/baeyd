@@ -23,7 +23,7 @@ Currently, I'm working as a police officer.<br>
 I have a keen interest in automation to enhance work efficiency and aspire to be versatile in all aspects.
 </p>
 
-<br><br>
+<br>
 
 ## Skills 👋
 <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
