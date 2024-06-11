@@ -25,7 +25,20 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 
 <br>
 
-## Skills 👋
-<a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
+## Once I've used 👋
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- OS -->
+    <p><strong>Operating System</strong></p>
+    <div>
+        <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
+    </div>
+
+   <!-- Language -->
+    <p><strong>Language</strong></p>
+    <div>
+        <a href="#"><img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=white"/></a>
+    </div>
+</div>
+
 <a href="#"><img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=white"/></a>
