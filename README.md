@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 <a href="mailto:byd0105@outlook.com" target="_blank"><img src="https://img.shields.io/badge/byd0105@outlook.com-0A66C2?style=flat-square&logo=Microsoft Outlook&logoColor=white"/></a>
 
 <p dir="auto">
-test
+For the past five years, I've primarily focused on infrastructure system operation, security monitoring, security operations, and vulnerability assessment.<br>
+Currently, I'm working as a police officer.<br>
+I have a keen interest in automation to enhance work efficiency and aspire to be versatile in all aspects.
 </p>
