@@ -28,7 +28,3 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 ## Skills 👋
 <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Liunx-61DAFB?style=flat-square&logo=Liunx&logoColor=white"/></a>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyd&show_icons=true&theme=radical)
