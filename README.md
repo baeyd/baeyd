@@ -22,3 +22,5 @@ For the past five years, I've primarily focused on infrastructure system operati
 Currently, I'm working as a police officer.<br>
 I have a keen interest in automation to enhance work efficiency and aspire to be versatile in all aspects.
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyd&show_icons=true&theme=radical)
