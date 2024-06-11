@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **baeyd/baeyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there 👋
+<a href="https://baeyd.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
+<a href="https://baeyd.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
 <a href="https://baeyd.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
