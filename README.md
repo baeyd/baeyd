@@ -32,10 +32,12 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
     <div>
         <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/solaris-#F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
     </div>
     <!-- Language -->
     <p><strong>Language</strong></p>
     <div>
+        <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=white"/></a>
     </div>
 </div>
