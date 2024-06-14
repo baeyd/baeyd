@@ -37,7 +37,7 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/L4 Switch-42B883?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/L7 Switch-84BD00?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/SAN Switch-499848?style=flat-square&logo=Alteon&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
