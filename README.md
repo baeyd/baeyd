@@ -70,5 +70,7 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Shell Script-FCC624?style=flat-square&logo=Shell Script&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Microsoftazure-0078D7?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Kubernetes-0079C1?style=flat-square&logo=kubernetes&logoColor=white"/></a>
     </div>
 </div>
