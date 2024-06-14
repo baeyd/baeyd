@@ -27,8 +27,8 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 
 ## I've used(Skills) 👋 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- OS --> server, db, network, 
-    <p><strong>Operating System(Server)</strong></p>
+    <!-- OS -->
+    <p><strong>Operating System</strong></p>
     <div>
         <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -48,7 +48,38 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
     <div>
         <a href="#"><img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
+    </div>
+    <!-- Solution -->
+    <p><strong>Solution</strong></p>
+    <div>
+        <a href="#"><img src="https://img.shields.io/badge/Networker-007DB8?style=flat-square&logo=dell&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/SolarWinds-FE5F50?style=flat-square&logo=SolarWinds&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MK119-00465B?style=flat-square&logo=MK119&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/RedCastle-DD0700?style=flat-square&logo=RedCastle&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Secure Guard-0096D6?style=flat-square&logo=Secure Guard&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Webtob-F8DC75?style=flat-square&logo=Webtob&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Jeus-F8DC75?style=flat-square&logo=Jeus&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/IIS-F8DC75?style=flat-square&logo=IIS&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/hitachi storage-E60027?style=flat-square&logo=hitachi&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/ECM NAS-007DB8?style=flat-square&logo=dell&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/FW-007DB8?style=flat-square&logo=Ahnlab&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/IPS-007DB8?style=flat-square&logo=wins&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/WAF-007DB8?style=flat-square&logo=WAPPLES&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/DBSafer-007DB8?style=flat-square&logo=DBSafer&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Smartxfilter-007DB8?style=flat-square&logo=Smartxfilter&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/ESM-007DB8?style=flat-square&logo=ESM&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/SIEM(Igloo, Splunk, QRadar)-007DB8?style=flat-square&logo=ESM&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/PMS-FB4F14?style=flat-square&logo=quest&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/AD-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Fortify-4695EB?style=flat-square&logo=Fortify&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Fortify-4695EB?style=flat-square&logo=Fortify&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/SolidStep-4695EB?style=flat-square&logo=SolidStep&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Zap-00549E?style=flat-square&logo=Zap&logoColor=white"/></a>     
     </div>
     <!-- Language -->
     <p><strong>Language</strong></p>
