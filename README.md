@@ -77,7 +77,6 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/PMS-FB4F14?style=flat-square&logo=quest&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/AD-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Fortify-4695EB?style=flat-square&logo=Fortify&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Fortify-4695EB?style=flat-square&logo=Fortify&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/SolidStep-4695EB?style=flat-square&logo=SolidStep&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Zap-00549E?style=flat-square&logo=Zap&logoColor=white"/></a>     
     </div>
