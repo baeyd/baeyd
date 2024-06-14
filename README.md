@@ -28,32 +28,19 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 ## I've used(Skills) 👋 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- OS -->
-    <p><strong>Operating System</strong></p>
     <div>
         <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/solaris-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
-    </div>
-    <!-- Network -->
-    <p><strong>Network</strong></p>
-    <div>
         <a href="#"><img src="https://img.shields.io/badge/L2 Switch-468145?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/L3 Switch-468145?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/L4 Switch-42B883?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/L7 Switch-84BD00?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/SAN Switch-499848?style=flat-square&logo=Alteon&logoColor=white"/></a>
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
         <a href="#"><img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
-    </div>
-    <!-- Solution -->
-    <p><strong>Solution</strong></p>
-    <div>
         <a href="#"><img src="https://img.shields.io/badge/Backup-007DB8?style=flat-square&logo=dell&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/NMS-FE5F50?style=flat-square&logo=SolarWinds&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/FMS-00465B?style=flat-square&logo=MK119&logoColor=white"/></a>
@@ -79,10 +66,6 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/Fortify-4695EB?style=flat-square&logo=Fortify&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/SolidStep-FF4F8B?style=flat-square&logo=SolidStep&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Zap-00549E?style=flat-square&logo=Zap&logoColor=white"/></a>     
-    </div>
-    <!-- Language -->
-    <p><strong>Language</strong></p>
-    <div>
         <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/></a>
