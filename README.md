@@ -27,8 +27,8 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 
 ## I've used(Skills) 👋 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- OS -->
-    <p><strong>Operating System</strong></p>
+    <!-- OS --> server, db, network, 
+    <p><strong>Operating System(Server)</strong></p>
     <div>
         <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -42,6 +42,13 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/L4 Switch-42B883?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/L7 Switch-84BD00?style=flat-square&logo=Alteon&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/SAN Switch-499848?style=flat-square&logo=Alteon&logoColor=white"/></a>
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <a href="#"><img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
     </div>
     <!-- Language -->
     <p><strong>Language</strong></p>
