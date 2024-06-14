@@ -61,23 +61,23 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/RedCastle-DD0700?style=flat-square&logo=RedCastle&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Secure Guard-0096D6?style=flat-square&logo=Secure Guard&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Webtob-F8DC75?style=flat-square&logo=Webtob&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Jeus-F8DC75?style=flat-square&logo=Jeus&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Tomcat-50A135?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Webtob-21375A?style=flat-square&logo=Webtob&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Jeus-6236FF?style=flat-square&logo=Jeus&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/IIS-F8DC75?style=flat-square&logo=IIS&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/hitachi storage-E60027?style=flat-square&logo=hitachi&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/ECM NAS-007DB8?style=flat-square&logo=dell&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/FW-007DB8?style=flat-square&logo=Ahnlab&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/IPS-007DB8?style=flat-square&logo=wins&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/WAF-007DB8?style=flat-square&logo=WAPPLES&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/DBSafer-007DB8?style=flat-square&logo=DBSafer&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Smartxfilter-007DB8?style=flat-square&logo=Smartxfilter&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/ESM-007DB8?style=flat-square&logo=ESM&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/SIEM(Igloo, Splunk, QRadar)-007DB8?style=flat-square&logo=ESM&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/FW-FA243C?style=flat-square&logo=Ahnlab&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/IPS-FDEE21?style=flat-square&logo=wins&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/WAF-225593?style=flat-square&logo=WAPPLES&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/DBSafer-FF6441?style=flat-square&logo=DBSafer&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Smartxfilter-1287B1?style=flat-square&logo=Smartxfilter&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/ESM-E10098?style=flat-square&logo=ESM&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/SIEM-4E5EE4?style=flat-square&logo=ESM&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/PMS-FB4F14?style=flat-square&logo=quest&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/AD-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Fortify-4695EB?style=flat-square&logo=Fortify&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/SolidStep-4695EB?style=flat-square&logo=SolidStep&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/SolidStep-FF4F8B?style=flat-square&logo=SolidStep&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Zap-00549E?style=flat-square&logo=Zap&logoColor=white"/></a>     
     </div>
     <!-- Language -->
