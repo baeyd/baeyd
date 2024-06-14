@@ -34,6 +34,15 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/solaris-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
     </div>
+    <!-- Network -->
+    <p><strong>Network</strong></p>
+    <div>
+        <a href="#"><img src="https://img.shields.io/badge/L2 Switch-4695EB?style=flat-square&logo=Alteon&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/L3 Switch-4695EB?style=flat-square&logo=Alteon&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/L4 Switch-4695EB?style=flat-square&logo=Alteon&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/L7 Switch-2F2625?style=flat-square&logo=Alteon&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/SAN Switch-4695EB?style=flat-square&logo=Alteon&logoColor=white"/></a>
+    </div>
     <!-- Language -->
     <p><strong>Language</strong></p>
     <div>
