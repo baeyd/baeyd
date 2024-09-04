@@ -29,13 +29,13 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- OS -->
     <div>
-        <p dir="auto">2023.06 ~ : Police (Cyber ​​Investigation)<br>
+        <p dir="auto">○ 2023.06 ~ : Police (Cyber ​​Investigation)<br>
         </p>
-        <p dir="auto">2022.01 ~ 2023.06 : SK Siltron (security operation and vulnerability diagnosis)<br>
+        <p dir="auto">○ 2022.01 ~ 2023.06 : SK Siltron (security operation and vulnerability diagnosis)<br>
         </p>
-        <p dir="auto">2020.02 ~ 2021.12 : Public Agency (security operation service)<br>
+        <p dir="auto">○ 2020.02 ~ 2021.12 : Public Agency (security operation service)<br>
         </p>
-        <p dir="auto">2017.12 ~ 2020.02 : Public Agency (infrastructure operations)<br>
+        <p dir="auto">○ 2017.12 ~ 2020.02 : Public Agency (infrastructure operations)<br>
         </p>
         <!-- Icon List
         <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
