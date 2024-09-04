@@ -29,6 +29,7 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- OS -->
     <div>
+        <!--
         <a href="#"><img src="https://img.shields.io/badge/Windows-4695EB?style=flat-square&logo=Windows&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Linux-2F2625?style=flat-square&logo=Linux&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/solaris-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
@@ -73,5 +74,6 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
         <a href="#"><img src="https://img.shields.io/badge/Microsoftazure-0078D7?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Kubernetes-0079C1?style=flat-square&logo=kubernetes&logoColor=white"/></a>
         ...<a href="#"><img src="https://img.shields.io/badge/ETC-17181B?style=flat-square&logo=ETC&logoColor=white"/></a>
+        -->
     </div>
 </div>
