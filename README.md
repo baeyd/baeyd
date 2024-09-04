@@ -25,7 +25,7 @@ I have a keen interest in automation to enhance work efficiency and aspire to be
 
 <br>
 
-## History 👋 
+## Experience 👋 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- OS -->
     <div>
